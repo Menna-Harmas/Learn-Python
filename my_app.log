@@ -1,0 +1,17 @@
+(06 - October - 2023, 20:42:12) | Elzero | WARNING => 'This Is Warning Message'
+(06 - October - 2023, 20:43:02) | Elzero | WARNING => 'This Is Warning Message'
+(06 - October - 2023, 20:43:25) | Elzero | WARNING => 'This Is Warning Message'
+(06 - October - 2023, 20:43:27) | Elzero | WARNING => 'This Is Warning Message'
+(06 - October - 2023, 20:43:29) | Elzero | WARNING => 'This Is Warning Message'
+(06 - October - 2023, 22:44:47) | werkzeug | INFO => '[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000'
+(06 - October - 2023, 22:44:47) | werkzeug | INFO => '[33mPress CTRL+C to quit[0m'
+(06 - October - 2023, 22:44:47) | werkzeug | INFO => ' * Restarting with watchdog (windowsapi)'
+(06 - October - 2023, 22:57:11) | werkzeug | INFO => '[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000'
+(06 - October - 2023, 22:57:11) | werkzeug | INFO => '[33mPress CTRL+C to quit[0m'
+(06 - October - 2023, 22:57:11) | werkzeug | INFO => ' * Restarting with watchdog (windowsapi)'
+(06 - October - 2023, 23:19:16) | werkzeug | INFO => '[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:9000'
+(06 - October - 2023, 23:19:16) | werkzeug | INFO => '[33mPress CTRL+C to quit[0m'
+(06 - October - 2023, 23:19:16) | werkzeug | INFO => ' * Restarting with watchdog (windowsapi)'
